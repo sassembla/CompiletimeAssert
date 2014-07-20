@@ -1,0 +1,1 @@
+go run /Users/highvision/Desktop/golang/src/compiletimeAssert/*.go
